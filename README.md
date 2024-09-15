@@ -1,16 +1,3 @@
 # conversor
 
-App conversor de moedas
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App conversor de moedas feito em flutter para a matéria de Programação para dispositivos móveis do sexto semestre da Graduação em Engenharia de Software, cumprindo com todos os requisitos impostos pelo professor Henrique e ainda fazendo o consumo da API da HG Finance (https://hgbrasil.com/status/finance) para obter valores reais e atualizados das conversões.
