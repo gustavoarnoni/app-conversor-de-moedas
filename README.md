@@ -7,7 +7,6 @@ Este é um aplicativo de conversão de moedas, desenvolvido em Flutter, que perm
 - **Conversão de moedas**: Permite converter valores entre várias moedas (USD, BRL, EUR, etc.).
 - **Interface simples e intuitiva**: A interface é fácil de usar, com telas de input e exibição de resultados claros.
 - **Cadastro de conversões realizadas**: O app mantém um histórico de conversões, permitindo ao usuário visualizar transações anteriores.
-- **API de Taxas de Câmbio**: O app usa uma API de câmbio para obter taxas em tempo real e garantir a precisão das conversões.
 - **Suporte para múltiplas moedas**: A cada nova conversão, o usuário pode escolher a moeda de origem e a moeda de destino.
 
 ## Tecnologias Utilizadas
@@ -48,11 +47,3 @@ Para rodar o projeto localmente, siga os passos abaixo:
     ```
 
 6. **Configuração da API**: As informações da API estão configuradas no arquivo `api_service.dart`. A URL padrão para a API é `http://localhost:3000/conversoes`.
-
-## Contribuindo
-
-Se você deseja contribuir com melhorias, correções de bugs ou novas funcionalidades, fique à vontade para abrir um **pull request**. Caso tenha alguma dúvida ou sugestão, abra uma **issue** e discutiremos as possíveis soluções.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
