@@ -1,0 +1,67 @@
+{
+  "conversoes": [
+    {
+      "id": "3",
+      "moedaOrigem": "USD",
+      "moedaDestino": "AOA",
+      "valorOriginal": 100,
+      "valorConvertido": 241
+    },
+    {
+      "id": "1",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOriginal": 100,
+      "valorConvertido": 500
+    },
+    {
+      "id": "2",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOriginal": 100,
+      "valorConvertido": 500
+    },
+    {
+      "id": "1",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOriginal": 100,
+      "valorConvertido": 500
+    },
+    {
+      "id": "2",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOriginal": 100,
+      "valorConvertido": 500
+    },
+    {
+      "id": "1",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOriginal": 100,
+      "valorConvertido": 500
+    },
+    {
+      "id": "2",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOriginal": 100,
+      "valorConvertido": 500
+    },
+    {
+      "id": "1",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOriginal": 100,
+      "valorConvertido": 500
+    },
+    {
+      "id": "2",
+      "moedaOrigem": "USD",
+      "moedaDestino": "BRL",
+      "valorOriginal": 100,
+      "valorConvertido": 500
+    }
+  ]
+}
